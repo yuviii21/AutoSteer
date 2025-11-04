@@ -1,5 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![CI](https://github.com/yuviii21/AutoSteer/actions/workflows/ci.yml/badge.svg)]
-### AutoSteer 
 ### AutoSteer 
 AutoSteer leverages computer vision and Convolutional Neural Networks (CNNs) to predict high-precision steering angles for autonomous vehicles. This project aims to enhance road safety and driving efficiency through advanced AI technology.
 
