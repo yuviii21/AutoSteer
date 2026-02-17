@@ -15,7 +15,6 @@ Conda for Python which resolves all the dependencies for machine learning.
 2) Now you need to have the data, run `TrainModel.py` to load data from pickle and augment it. After this, the training process begins.
 3) For testing it on the video, run `DriveApp.py`
 
-### Results
 
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif">
 
